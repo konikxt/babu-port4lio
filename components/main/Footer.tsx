@@ -50,11 +50,11 @@ const Footer = () => {
                     <div className="font-bold text-[16px]">About</div>
                    <p className="flex flex-row items-center my-[15px] cursor-pointer">
                      
-                        <span className="text-[15px] ml-[6px]">Become Sponsor</span>    
+                        <span className="text-[15px] ml-[6px]">Junior DevOps Engineer</span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                       
-                        <span className="text-[15px] ml-[6px]">Learning about me</span>    
+                        <span className="text-[15px] ml-[6px]">Contact me</span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                   
